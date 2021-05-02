@@ -1,3 +1,3 @@
-# Strapi application
+# Fullstuck Backend
 
-A quick description of your strapi application
+Build with https://strapi.io/
